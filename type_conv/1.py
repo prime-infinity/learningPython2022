@@ -12,4 +12,4 @@ print(age)
 # other type conversions
 float()  # convert value to float
 str()  # convert value to string
-bool()  # convert value to bool
+bool()  # convert values to bool
