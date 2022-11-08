@@ -14,7 +14,7 @@ numbers = [2, 5, 1, 6, 78, 2, 6]
 print(max(numbers))
 print(5 in numbers)  # check if an element is in list
 
-# removes the last ele
+# removes the last ele,#if an args is passed, it removes the index
 print(cars.pop())
 
 # gives the index of the first occurence of an item
