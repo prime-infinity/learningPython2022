@@ -5,3 +5,5 @@ def greet_user(name):
 input = input("enter name: ")
 
 greet_user(input)
+
+# keyword args, should always come after posotional args
