@@ -12,3 +12,7 @@ print(name)
 # bools
 is_god = True
 # remember python is case sensitive, so its "False", not "false" as in other langs
+k, a = 1, 2
+
+print(k, a)
+# print(a)
