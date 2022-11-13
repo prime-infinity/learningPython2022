@@ -3,8 +3,9 @@ import random
 
 class Dice:
     '''
-    this is not needed, except to add
-    more customization
+    this below is not needed, except to add
+    more customization,like creating dices with
+    different variables
     def __init__(self, x, y):
         self.x = x
         self.y = y
