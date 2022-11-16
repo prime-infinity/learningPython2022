@@ -1,4 +1,10 @@
 # share or inherit similar behaviors
+''' 
+in this example, only methods are inherited from
+the super class, but attributes can also be inherited
+as shown in 2.py 
+'''
+
 
 class Mammal:
     def walk(self, breed):

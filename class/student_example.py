@@ -22,6 +22,11 @@ class Course:
         value = 0
         for s in self.students:
             value += s.return_grade()
+            '''
+            take note of the above,because "s" is
+            an instance of students, so its methods can 
+            as well be accessed
+            '''
         return value / len(self.students)
 
     def show_students(self):
