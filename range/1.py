@@ -1,5 +1,5 @@
 numbers = range(10)  # create an array from 0 to 9
-list = [2, 2, 3, 4, 5, 6, 2]
+list = ["a", "b", "c", "d", "e", "f", "g"]
 # we can then iterate over them
 '''
 for n in numbers:
