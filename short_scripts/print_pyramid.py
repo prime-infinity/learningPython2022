@@ -7,3 +7,10 @@ for i in range(1, 6):
         print("#", end=".")
 
     print(end="\n")
+
+for i in range(1, 6):
+    roww = ""
+    for j in range(0, i):
+        roww += "#"
+
+    print(roww)
